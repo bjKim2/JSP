@@ -39,11 +39,14 @@
 	2 ^ 4 = <%=result *= 2 %><br>
 	2 ^ 5 = <%=result *= 2 %><br>
 
-	2 ^ 1 = <%=result2=two_mul(result2) %><br>
-	2 ^ 2 = <%=result2=two_mul(result2) %><br>
-	2 ^ 3 = <%=result2=two_mul(result2) %><br>
-	2 ^ 4 = <%=result2=two_mul(result2) %><br>
-	2 ^ 5 = <%=result2=two_mul(result2) %><br>
+<% 
+	for(int i = 1; i<=5;i++){
+%>
+	2 ^ <%=i %> = <%=result2=two_mul(result2) %><br>
+		
+<%
+	}
+%>
 <%!
 	public int two_mul(int a){
 		
