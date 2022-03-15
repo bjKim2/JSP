@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<title>Ex02</title>
+	</head>
+	<body>
+		<h1> 오늘 주목할 만한 남성 의류 </h1>
+		
+		<table border  = '1'>
+			<tr>
+				<td>
+					
+					<ul>
+						<li1>
+							<img alt='청바지1' src ='https://gdimg.gmarket.co.kr/528849355/still/280?ver=1647052830' width= 100 height = 100>
+							봄 신상 남자청바지/빅사이즈/슬랙스/스판/일자/행사 (15,900원)
+						</li1>	
+						<li2>
+							<img alt='면바지1' src ='https://gdimg.gmarket.co.kr/1484539439/still/280?ver=1631235575' width= 100 height = 100>
+							상품명알칸스 봄 남자 면바지 청바지 남성 카고 조거팬츠 (22,800원)
+						</li2>
+					
+					</ul>
+				
+				
+				
+				</td>
+			
+			</tr>
+		
+		
+		
+		</table>
+	
+	</body>
+</html>

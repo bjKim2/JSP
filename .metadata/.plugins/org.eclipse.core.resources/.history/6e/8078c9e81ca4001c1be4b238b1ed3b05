@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>From Tag</title>
+	</head>
+	<body>
+		<from action = '#' method='get'>
+			이름 : <input type="text" name = "userName" ><br>
+			아이디 : <input type="text" name = "userId"  size = '7'><br>
+			비밀번호 : <input type="password" name="userPassword"><br>
+			연락처: <input type="number" name = "phone1"  size = '7'> - 
+					<input type="number" name = "phone2"  size = '7'> - 
+					<input type="number" name = "phone3"  size = '7'><br>
+		
+			 
+			
+		
+		</from>
+	</body>
+</html>

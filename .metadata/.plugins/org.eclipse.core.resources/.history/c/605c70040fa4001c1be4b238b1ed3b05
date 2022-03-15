@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Image Tag</title>
+</head>
+<body>
+	<p><imga alt = "Naver Logo" src = "./Imgs/naver_icon.png"> </p>
+</body>
+</html>

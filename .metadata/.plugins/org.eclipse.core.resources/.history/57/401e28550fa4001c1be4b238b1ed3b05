@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Image Tag</title>
+</head>
+<body>
+	<p><img alt = "Naver Logo" src = "./imgs/naver_icon.png"> </p>
+	<p><img alt = "피카츄" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.insight.co.kr%2Fnews%2F300848&psig=AOvVaw3Ik7lBK0bz0lPr3of0gfTb&ust=1647400946663000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIDs2PiUx_YCFQAAAAAdAAAAABAJ"> </p>
+</body>
+</html>

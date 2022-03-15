@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Image Tag</title>
+</head>
+<body>
+	<p><img alt = "Naver Logo" src = "./imgs/naver_icon.png"> </p>
+	<p><img alt = "피카츄" src = "https://img.insight.co.kr/static/2020/08/26/1200/17151p613ppu91wazg7h.jpg"> </p>
+</body>
+</html>

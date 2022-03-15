@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>From Tag</title>
+	</head>
+	<body>
+		<from action = '#' method='get'>
+			이름 : <input type="text" name = "userName"  ><br>
+			아이디 : <input type="text" name = "userId"  size = '7'><br>
+			비밀번호 : <input type="password" name="userPassword"><br>
+			연락처 : <input type="text" name = "phone1_1"  size = "5"> - 
+					<input type="text" name = "phone1_2"  size = "5"> - 
+					<input type="text" name = "phone1_3"  size = "5"> <br>
+			사진 : <input type="file" name = "picture"> <br> 
+			성별 구분 : <input type="radio" name = "gender" value = "man" checked = "checked">남,
+					<input type="radio" name="gender" value="woman"> 여 <br>
+			사용 언어 : 
+					<input type="checkbox" name="lang" value="kor" checked="checked"> 한글,
+					<input type="checkbox" name="lang" value="eng" > 영어,
+					<input type="checkbox" name="lang" value="jpn" > 일본어,
+					<input type="checkbox" name="lang" value="chn" > 중국어 <br>
+			자기 소개:
+					<textarea rows="5" cols="20>간</textarea>
+				
+			
+		</from>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>From Tag</title>
+	</head>
+	<body>
+		<from action = '#' method='get'>
+			이름 : <input type="text" name = "userName" ><br>
+			아이디 : <input type="text" name = "userId"  size = '5'><br>
+			 
+			
+		
+		</from>
+	</body>
+</html>

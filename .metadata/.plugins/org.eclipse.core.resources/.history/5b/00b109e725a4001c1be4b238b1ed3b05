@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action = '#' method='get'>
+		<table border = '1' cellpadding = '5'>
+			<tr>
+				<td>
+					이름 : 
+				</td>
+				<td>
+					<input type="text" name = "userName" autofocus>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					아이디 :
+				</td>
+				<td>
+					 <input type="text" name = "userId"  size = '7' autofocus="autofocus">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					비밀번호 :
+				</td>
+				<td>
+					<input type="password" name="userPassword" >
+				</td>
+			</tr>
+			<tr>
+				<td>
+					연락처 : 
+				</td>
+				<td>
+					<input type="text" name = "phone1_1"  size = "5"> - 
+					<input type="text" name = "phone1_2"  size = "5"> - 
+					<input type="text" name = "phone1_3"  size = "5"> 
+				</td>
+			</tr>
+			<tr>
+				<td>	
+					사진 : 
+				</td>
+				<td>
+					<input type="file" name = "picture"> <br> 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					성별 구분 : 
+				</td>
+				<td>
+					<input type="radio" name = "gender" value = "man" checked = "checked">남,
+					<input type="radio" name="gender" value="woman"> 여 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					사용 언어 : 
+				</td>
+				<td>
+					<input type="checkbox" name="lang" value="kor" checked="checked"> 한글,
+					<input type="checkbox" name="lang" value="eng" > 영어,
+					<input type="checkbox" name="lang" value="jpn" > 일본어,
+					<input type="checkbox" name="lang" value="chn" > 중국어 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					자기 소개:
+				</td>
+				<td>
+					<textarea rows="5" cols="20" name="introduce"> 간략하게 입력하세요 </textarea>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<!-- 데이터베이스는 varchar 말고 text 타입은 무한정 문자가 들어올수있다.  -->  
+					국적 :	
+				</td>
+				<td>
+					<select name="nationality">
+						<option> Korea</option>
+						<option selected="selected"> USA</option>
+						<option> JP</option>
+						<option> CH</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					좋아하는 음식 : 
+				</td>
+				<td>
+					<select name="food" multiple="multiple">
+						<option>김치</option>
+						<option>불고기</option>
+						<option>파전</option>
+						<option>비빔밥</option>
+						<option>냉면</option>
+						<option>순대</option>
+					
+					</select><br>	
+				</td>
+			</tr>
+			<tr>
+				<td>
+				</td>
+				<td>
+					<input size = '40' type="submit" name = "okBtn" value = "Ok" autofocus>
+				</td>		
+	
+		</table>
+	</form>
+</body>
+
+</body>
+</html>

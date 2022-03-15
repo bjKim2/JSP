@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/tj/kte/jsp/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2932338342.index
+1592080129.index
+2274218535.index
+2317059461.index
+227466926.index
+1419574345.index
+538587144.index
+985587715.index

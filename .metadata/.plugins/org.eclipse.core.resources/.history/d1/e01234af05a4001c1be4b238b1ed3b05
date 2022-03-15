@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<table border = '1' width = "500" height = "300">
+			
+			<tr align = right>
+				<td valign = top>국어</td>
+				<td valign = bottom>영어</td>
+				<td valign = middle>수학</td>
+			</tr>
+			<tr>
+				<td>100</td>
+				<td align = center>90</td>
+				<td align = right>80</td>			
+			</tr>
+
+			
+		</table>
+	</body>
+</html>

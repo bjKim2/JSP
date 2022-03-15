@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<p>검색 사이트 리스트</p>
+		
+		<ul>
+			<li>1. Google</li>
+			<li>2. Yahoo</li>
+			<li>3. Naver</li>
+		
+		</ul>
+	</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<table border = '1' width = "500" height = "300">
+			<tr>
+
+			</tr>
+			
+			<tr align = "right">
+				<td valign = "top">국어</td>
+				<td valign = "bottom">영어</td>
+				<td valign = "middle"><i><b>수학</b></i></td>
+			</tr>
+			<tr>
+				<th>100</th>
+				<th align = "center">90</th>
+				<th align = "right">80</th>			
+			
+			</tr>
+			<tr>
+			
+				<td colspan = "2">평균</td>
+				<td>90</td>
+		
+			
+			</tr>
+
+			
+		</table>
+	</body>
+</html>

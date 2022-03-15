@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<table border= "3" width = "500" height = "300">
+			<tr>
+
+			</tr>
+			
+			<tr align = "right">
+				<td>이름</td>
+				<td valign = "top">국어</td>
+				<td valign = "bottom">영어</td>
+				<td valign = "middle"><i><b>수학</b></i></td>
+			</tr>
+			<tr>
+				<td rowspan = "2" align = "center"> 홍길동 </td>
+				<th >100</th>
+				<th  align = "center">90</th>
+				<th align = "right">80</th>			
+			
+			</tr>
+			<tr>
+			
+				<td bgcolor = 'e5ffdd' background = "https://img2.sbs.co.kr/img/sbs_cms/WE/2020/07/09/WE64849959_ori.jpg" colspan = "2">평균</td>
+				<td>90</td>
+		
+			
+			</tr>
+
+			
+		</table>
+	</body>
+</html>

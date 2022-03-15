@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<p>Menu List</p>
+		<ul>
+			<li>Menu 1</li>
+			<li>Menu 2</li>
+			<li>Menu 3</li>
+			<li>Menu 4</li>
+			<li>Menu 5</li>
+			<li>Menu 6</li>
+		</ul>
+		
+		
+		<p>Menu List2</p>
+		
+		<ul>
+			<li>Menu 1</li>
+			<li>Menu 2</li>
+			<li>Menu 3</li>
+			<li>Menu 4</li>
+			<li>Menu 5</li>
+			<li>Menu 6</li>
+		</ul>
+			
+		<dl><!-- data line -->
+			<dt>Menu List 3</dt><!-- data title -->
+				<dd>Menu 1</dd> <!-- data data -->
+				<dd>Menu 2</dd>
+				<dd>Menu 3</dd>
+				<dd>Menu 4</dd>
+				<dd>Menu 5</dd>
+				<dd>Menu 6</dd>
+		
+		</dl>
+		
+		<img src = "../imgs/naver_icon.png">
+		
+	</body>
+</html>
