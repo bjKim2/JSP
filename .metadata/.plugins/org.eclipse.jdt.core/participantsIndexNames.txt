@@ -1,3 +1,7 @@
 INDEX VERSION 1.131
 /Users/tj/kte/jsp/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2025407336.index
 /JSP/src/main/java
+/Users/tj/kte/jsp/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/286094135.index
+/HTML/src/main/java
+/Users/tj/kte/jsp/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2463683507.index
+/HTML2/src/main/java
