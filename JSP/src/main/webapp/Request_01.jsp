@@ -14,8 +14,10 @@
 		이름 : <input name="name" value = "태언"type="text"> 
 		<input type="submit" name = "submitBtn" value = "확인">
 	
-	
+		<%
+			String name = "왜안";
+		%>
 	</form>
-
+		<a href="http://localhost:8080/JSP/Request_02.jsp?name=<%=name%>">aa</a>
 </body>
 </html>

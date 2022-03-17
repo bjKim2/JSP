@@ -7,9 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-	합계를 구하기 위한 숫자를 입력하세요.
-	<br>
-	<form
+	<form action="Team_quiz01_sub.jsp" method="get">
+		첫번째 수 <input type="text" name="n1"><br>
+		두번째 수 <input type="text" name="n2"><br>
+		<input type="submit" value="입력">
+	
+	</form>
 
 </body>
 </html>

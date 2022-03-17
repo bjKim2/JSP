@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<form action="Ex16_05_sub.jsp" method="get">
+	<form action="Ex16_05_sub.jsp" method="post">
 		N1 
 		<select name="n1">
 			<%
